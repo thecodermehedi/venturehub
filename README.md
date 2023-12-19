@@ -1,12 +1,12 @@
 <div align="center">
 
-![](./client//public/favicon.ico)
+![](./client/public/favicon.ico)
 
 # VentureHub
 
 Your Interactive Hub for Startup Discovery!
 
-[Live Website](https://venturehubclient.vercel.app)
+[Live Website](https://venturehub-react.vercel.app)
 
 </div>
 
